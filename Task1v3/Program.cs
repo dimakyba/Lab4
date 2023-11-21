@@ -11,8 +11,8 @@ namespace Lab4
       long memoryBefore = GC.GetTotalMemory(true);
       Console.OutputEncoding = UTF8Encoding.UTF8;
       System.Console.Write("Введіть натуральне число n: ");
-      uint n = uint.Parse(Console.ReadLine());
-      // uint n = 10000;
+      // uint n = uint.Parse(Console.ReadLine());
+      uint n = 200000;
 
       StringBuilder result = new StringBuilder();
       result.Append(1);

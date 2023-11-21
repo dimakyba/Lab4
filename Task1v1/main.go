@@ -8,8 +8,8 @@ import (
 func main() {
 	var n uint
 	fmt.Print("Введіть натуральне число: ")
-	fmt.Scan(&n)
-	// n = 50000
+	// fmt.Scan(&n)
+	n = 20000
 	result := "1"
 	startTime := time.Now()
 

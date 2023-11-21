@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Lab4\\Task1v3\\Task1v3.csproj": {}
+    "D:\\Documents\\GitHub\\Lab4\\task1v3\\Task1v3.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Lab4\\Task1v3\\Task1v3.csproj": {
+    "D:\\Documents\\GitHub\\Lab4\\task1v3\\Task1v3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Lab4\\Task1v3\\Task1v3.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Lab4\\task1v3\\Task1v3.csproj",
         "projectName": "Task1v3",
-        "projectPath": "D:\\Documents\\GitHub\\Lab4\\Task1v3\\Task1v3.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\Lab4\\task1v3\\Task1v3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Lab4\\Task1v3\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Lab4\\task1v3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
