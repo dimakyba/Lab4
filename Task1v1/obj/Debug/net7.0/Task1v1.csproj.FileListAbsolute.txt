@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Lab4\Task1v1\bin\Debug\net7.0\Task1v1.exe
+D:\Documents\GitHub\Lab4\Task1v1\bin\Debug\net7.0\Task1v1.deps.json
+D:\Documents\GitHub\Lab4\Task1v1\bin\Debug\net7.0\Task1v1.runtimeconfig.json
+D:\Documents\GitHub\Lab4\Task1v1\bin\Debug\net7.0\Task1v1.dll
+D:\Documents\GitHub\Lab4\Task1v1\bin\Debug\net7.0\Task1v1.pdb
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.AssemblyInfo.cs
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.dll
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\refint\Task1v1.dll
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.pdb
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\Task1v1.genruntimeconfig.cache
+D:\Documents\GitHub\Lab4\Task1v1\obj\Debug\net7.0\ref\Task1v1.dll
