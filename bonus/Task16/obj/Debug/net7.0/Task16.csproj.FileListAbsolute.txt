@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.AssemblyInfo.cs
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Lab4\bonus\Task16\bin\Debug\net7.0\Task16.exe
+D:\Documents\GitHub\Lab4\bonus\Task16\bin\Debug\net7.0\Task16.deps.json
+D:\Documents\GitHub\Lab4\bonus\Task16\bin\Debug\net7.0\Task16.runtimeconfig.json
+D:\Documents\GitHub\Lab4\bonus\Task16\bin\Debug\net7.0\Task16.dll
+D:\Documents\GitHub\Lab4\bonus\Task16\bin\Debug\net7.0\Task16.pdb
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.dll
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\refint\Task16.dll
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.pdb
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\Task16.genruntimeconfig.cache
+D:\Documents\GitHub\Lab4\bonus\Task16\obj\Debug\net7.0\ref\Task16.dll
