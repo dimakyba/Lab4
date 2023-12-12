@@ -7,16 +7,27 @@ import (
 func main() {
 	str := "a=2,t=5,c=3"
 
-	var letters, digits string
+	var result string
 
 	for _, c := range str {
 		if c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z' {
-			letters += string(c)
-		} else if c >= '0' && c <= '9' {
-			digits = string(c) + digits
+			result += string(c)
 		}
 	}
-
-	result := letters + digits
+	strLastIndex := len(result)
+	for _, c := range str {
+		if c >= '0' && c <= '9' {
+			result = Insert(result, strLastIndex, fmt.Sprintf("%c", c))
+		}
+	}
 	fmt.Println(result)
+}
+
+// result := result
+
+func Insert(s string, index int, str string) string {
+	if index < 0 || index > len(s) {
+		return s
+	}
+	return s[:index] + str + s[index:]
 }

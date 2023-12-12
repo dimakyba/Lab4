@@ -6,22 +6,25 @@ class Program
   {
     string str = "a=2,t=5,c=3";
 
-    string letters = "";
-    string digits = "";
+    string result = "";
+    // string digits = "";
 
     foreach (char c in str)
     {
       if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
       {
-        letters += c;
-      }
-      else if (c >= '0' && c <= '9')
-      {
-        digits = c + digits;
+        result += c;
       }
     }
+    int strLastIndex = result.Length;
+    foreach (char c in str)
+    {
 
-    string result = letters + digits;
+      if (c >= '0' && c <= '9')
+      {
+        result = result.Insert(strLastIndex, c.ToString());
+      }
+    }
     Console.WriteLine(result);
   }
 }
