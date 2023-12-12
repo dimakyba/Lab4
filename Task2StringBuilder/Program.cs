@@ -9,21 +9,28 @@ namespace Program
     {
       string str = "a=2,t=5,c=3";
 
-      StringBuilder letters = new StringBuilder();
-      StringBuilder digits = new StringBuilder();
-
+      StringBuilder sb = new StringBuilder();
       foreach (char c in str)
       {
         if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
         {
-          letters.Append(c);
+          sb.Append(c);
         }
-        else if (c >= '0' && c <= '9')
-        {
-          digits.Insert(0, c);
-        }
+
       }
-      string result = letters.ToString() + digits.ToString();
+      int strLastIndex = sb.ToString().Length;
+      foreach (char c in str)
+      {
+
+        if (c >= '0' && c <= '9')
+        {
+
+          sb.Insert(strLastIndex, c);
+        }
+
+      }
+
+      string result = sb.ToString();
       Console.WriteLine(result);
     }
   }

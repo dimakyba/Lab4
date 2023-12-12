@@ -8,18 +8,23 @@ import (
 func main() {
 	str := "a=2,t=5,c=3"
 
-	var letters strings.Builder
-	var digits strings.Builder
+	var sb strings.Builder
 
 	for _, c := range str {
 		if c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z' {
-			letters.WriteRune(c)
-		} else if c >= '0' && c <= '9' {
-			Insert(&digits, 0, fmt.Sprintf("%c", c))
+			sb.WriteRune(c)
+
+		}
+	}
+	strLastIndex := len(sb.String())
+	for _, c := range str {
+
+		if c >= '0' && c <= '9' {
+			Insert(&sb, strLastIndex, fmt.Sprintf("%c", c))
 		}
 	}
 
-	result := letters.String() + digits.String()
+	result := sb.String()
 	fmt.Println(result)
 }
 

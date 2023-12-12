@@ -12,7 +12,7 @@ namespace Lab4
       Console.OutputEncoding = UTF8Encoding.UTF8;
       System.Console.Write("Введіть натуральне число n: ");
       // uint n = uint.Parse(Console.ReadLine());
-      uint n = 100000;
+      uint n = 1000;
 
       StringBuilder result = new StringBuilder(n.ToString());
 
